@@ -1,3 +1,1 @@
-# kond
-# HW
 # HW
