@@ -1,0 +1,13 @@
+.navbar{
+    grid-area:n;
+  }
+  .navbar li{
+    list-style: none;
+    text-align: center;
+    margin: 25px 0;
+    margin-right: 25px;
+  }
+  .navbar a{
+    text-decoration: none;
+    color: rgb(239, 235, 227);
+  }

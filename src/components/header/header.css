@@ -1,0 +1,8 @@
+.header{
+    grid-area: h;
+    height: 80px;
+  }
+  .header img{
+    height: 100px;
+    object-fit: cover;
+  }

@@ -1,0 +1,28 @@
+.profil{
+    grid-area: p;
+  }
+  
+  .profil_photo img{
+    width: 100%;
+  }
+  
+  .profil_photo{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    grid-gap: 10px;
+  }
+  .posts{
+    margin: 10px;
+    padding: 10px;
+  }
+  .posts img{
+    width: 100px;
+    margin: 5px;
+  }
+.post{
+    margin: 20px 0;
+}
+
+.likes{
+  color: crimson;
+}
